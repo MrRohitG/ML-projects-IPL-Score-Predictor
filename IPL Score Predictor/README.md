@@ -7,7 +7,7 @@
 
 - **Key Contributions**:  
    - **Exploratory Data Analysis (EDA)**: Conducted comprehensive EDA to identify trends, patterns, and key performance indicators from the dataset.  
-   - **Data Analysis**: Cleaned and processed data from Kaggle, engineered features, and performed exploratory analysis.  
+   - **Data Analysis**:  Cleaned and processed data sourced from Kaggle, engineered features, and performed exploratory data analysis (EDA) using tools such as NumPy, Matplotlib, and seaborn to visualize trends and patterns. 
    - Performed **model evaluation** using performance metrics such as accuracy, precision, recall, and F1-score to compare algorithm effectiveness.  
    - Achieved **90% accuracy** with ensemble models.  
    - Integrated **real-time data feeds** for live score updates.  

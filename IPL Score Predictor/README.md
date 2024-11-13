@@ -15,3 +15,4 @@
 - **Technologies Used**:  
    - **Programming Language**: Python  
    - **Algorithms**: Decision Tree, Linear Regression, Random Forest, Support Vector Machine (SVM), K-Nearest Neighbors (KNN).  
+   - **Libraries**: Pandas, Numpy, Sklearn, Matplotlib, Seaborn.
